@@ -1,0 +1,10 @@
+.terraform/
+.terraform.lock.hcl
+terraform.tfstate
+terraform.tfstate.*
+.env
+terraform.tfvars
+load.sh
+*.swp
+*.swo
+.DS_Store
